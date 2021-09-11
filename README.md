@@ -4,6 +4,7 @@ ________________________________________________________________________________
 Este é meu primeiro projeto com React. É um site que se parece com u blog, no qual o usuário pode postar ou apagar qualquer coisa que quiser, salvando as alterações num banco de dados. Demorou muito tempo para eu me sentir confiante suficiente para aprender Reat, mas agora estou bem motivado para progredir. O site também tem a mudança entre tema claro/escuro, no qual o usuário pode escolher qual prefere. Este blog foi baseado no projeto dojo-blog.
 
 Exemplo de tema claro:
-
+![image](https://user-images.githubusercontent.com/82226141/132956815-5f6f85a0-b31f-4ece-992e-ad41b807af2d.png)
 
 Exemplo de tema escuro:
+![image](https://user-images.githubusercontent.com/82226141/132956825-1c69ee3f-fecd-4684-9134-cfab73c2f5fb.png)
